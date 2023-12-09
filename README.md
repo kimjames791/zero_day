@@ -1,1 +1,1 @@
-echo readme
+root directory readme
